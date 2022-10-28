@@ -1,0 +1,14 @@
+﻿  Demo.cpp
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(302,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(319,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(334,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(349,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(364,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(379,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(394,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(410,70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(440,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(455,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(470,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(485,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Lesson06.vcxproj -> C:\Users\LENOVO\OneDrive\Documents\SEMESTER 5\GRAFKOM\MATERI\Grafika Komputer dan Visualisasi\vs\Debug\Lesson06.exe
